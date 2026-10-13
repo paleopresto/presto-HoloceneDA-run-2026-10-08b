@@ -35,6 +35,8 @@ presto_config:
     value: '100'
   presto_age_chunks:
     value: '3'
+  presto_season_filter:
+    value: 'False'
   prior_mean_always_0:
     value: 'False'
   prior_window:
